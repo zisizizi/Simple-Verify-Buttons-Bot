@@ -1,0 +1,27 @@
+{
+  "name": "verifybot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Narej#4599",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "devDependencies": {
+    "node": "^16.10.0"
+  },
+  "description": "Prosty kod na weryfikacje z przyciskiem (działa po restarcie Bota)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zisizizi/Simple-Verify-Buttons-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zisizizi/Simple-Verify-Buttons-Bot/issues"
+  },
+  "homepage": "https://github.com/zisizizi/Simple-Verify-Buttons-Bot#readme"
+}
