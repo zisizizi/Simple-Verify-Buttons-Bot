@@ -29,7 +29,7 @@
 
 
 # Help
-> If you need help about the code or etc, Hop in [Join here]([https://discord.gg/GUxKp6HARM])
+> If you need help about the code or etc, Hop in [Join here](https://discord.gg/GUxKp6HARM)
 
 <footer align=center>
   If you like this repo, Please ⭐ this repo. Ty!
